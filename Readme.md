@@ -1,4 +1,4 @@
-## Details of "Webmark"
+## Details of the "Webmark" Project 
 Webmark is a modern, interactive bookmark management application designed to help users efficiently organize, manage, and personalize their bookmarks. Webmark offers a user-friendly interface and robust features to enhance your bookmarking experience.
 
 <h2>Technology Stack:</h2>
